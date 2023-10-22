@@ -3,7 +3,7 @@ Hello...
 👋 I’m Ocean Chen
 -------
 - 👀 Interested in full stack but I'm a noob yet.
-- 🎓 I’m currently study in Taylor's University and preparing to transfer to University of Birmingham finish my bachelor degree.
+- 🎓 I’m currently study in University of Birmingham
 - 📚 Reading 《Computer Systems A Programmers Perspective》.
 - ⛵ Encouraging people for open source collaborations.
 - 📫 I write my personal thoughts on Programming & Life in my [Personal Blog](https://www.oceanchen.com).
