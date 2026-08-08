@@ -2,11 +2,11 @@ Hello...
 =======
 👋 I’m Ocean Chen
 -------
-- 👀 Interested in full stack but I'm a noob yet.
-- 🎓 I’m currently study in University of Birmingham
-- 📚 Reading 《Computer Systems A Programmers Perspective》.
+- 👀 Interested in Cybersecurity.
+- 🎓 I’m a graduate of Bsc Computer Science in University of Birmingham
+- 📚 Preparing HTB Certified Penetration Testing Specialist (HTB CPTS).
 - ⛵ Encouraging people for open source collaborations.
-- 📫 I write my personal thoughts on Programming & Life in my [Personal Blog](https://www.oceanchen.com).
+- 📫 Thanks for spending time to read my words.
 <!---
 Miiiian/Miiiian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
