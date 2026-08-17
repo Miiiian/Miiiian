@@ -2,9 +2,9 @@ Hello...
 =======
 👋 I’m Ocean Chen
 -------
-- 👀 Interested in Cybersecurity.
+- 👀 Interested in CompSci.
 - 🎓 I’m a graduate of Bsc Computer Science in University of Birmingham
-- 📚 Preparing HTB Certified Penetration Testing Specialist (HTB CPTS).
+- 📚 Preparing HTB CPTS.
 - ⛵ Encouraging people for open source collaborations.
 - 📫 Thanks for spending time to read my words.
 <!---
